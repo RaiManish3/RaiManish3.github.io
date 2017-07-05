@@ -3,6 +3,10 @@
     padding:0;
 }
 
+body{
+    font-family: 'Junction', serif;
+}
+
 #navbar{
 	padding:10px;
 	font-size:20px;
@@ -10,7 +14,8 @@
 }
 
 .navbar-brand{
-    font-size:2em;
+    font-size:3em;
+    font-family: 'Tangerine', serif;
 }
 
 #navInfo{
@@ -20,8 +25,16 @@
 
 #navInfo li{
     display: inline-block;
-    text-decoration:none;
     padding:5px 10px;
+}
+
+#navInfo a{
+    text-decoration:none;
+    font-size:1.2em;
+}
+
+#navInfo a:hover{
+    color:rgba(0,0,240,0.9);
 }
 
 #myNavbar{
@@ -71,15 +84,28 @@
 	text-align:center;
 	width:100%;
     margin:4% 0;
+    font-family: 'Tangerine', serif;
+    font-size:26px;
 	font-style:oblique;
 }
 
+#socialIM{
+    list-style:none;
+}
+
+#socialIM li{
+    display:inline;
+}
+
 #socialIM img{
-    width:32px;
-    height:32px;
+    width:28px;
+    height:28px;
     margin:0 10px;
 }
 
+#socialIM li:hover{
+    opacity:0.6;
+}
 
 @media only screen and (max-width: 770px){
     #myInfo{
