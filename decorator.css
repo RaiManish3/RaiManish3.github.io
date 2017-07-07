@@ -5,6 +5,7 @@
 
 body{
     font-family: 'Junction', serif;
+    background-color:rgba(220,220,220,0.5);
 }
 
 #navbar{
@@ -73,7 +74,7 @@ body{
     border-radius:50%;
 }
 
-#myInfo{
+.myInfo{
     display:inline-block;
     width:75%;
     max-width:700px;

@@ -1,0 +1,86 @@
+<html>
+<head>
+	<title>	Manish Rai </title>
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+     <!-- Good Fonts -->
+     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+
+	 <!-- Latest compiled and minified CSS -->
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+	 <!-- jQuery library -->
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+	 <!-- Latest compiled JavaScript -->
+	 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	 <!--customise the look-->
+	 <link rel="stylesheet" type="text/css" href="decorator.css">
+
+</head>
+<body>
+    <!-- navbar -->
+    <nav class="navbar">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>                        
+                </button>
+                <a class="navbar-brand" href="#">Manish Rai</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid" id="nav2">
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul id="navInfo">
+            <li><a onclick="changeText(true);" style="cursor:default">About</a></li>
+            <li><a href="resume/rmanish.pdf">Resume</a></li>
+            <li><a onclick="changeText(false);" style="cursor:default">Works</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="container-fluid bigContainer">
+        <div class="container-fluid" id="myPic">
+            <img src="self/Manish.jpg" id="im1"/>
+        </div>
+
+        <div class="container-fluid myInfo" id="info1">
+        </div>
+    </div>
+
+    <div id="about_text" style="display:none;">
+        <p>Hi, I'm Manish Rai.</p>
+        <p>Junior Undergraduate, Indian Institute of Technology Kanpur.</p>
+        <p>Aspiring Computer Scientist. Coder. Cybersecurity enthusiast. In love with Cosmos.</p>
+        <p>Intrigued by nature, lyrically good music, computer algorithms, writing, psychology, football, and Buddha's teachings.</p>
+        <p>Seeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me.</p>
+        <p>Much happy to collaborate on ideas that are interesting. Say hi on Github @RaiManish3 </p>
+    </div>
+
+    <div id="works_text" style="display:none;">
+        Hello there.
+    </div>
+
+	<!-- set footer -->
+	<div class="container-fluid" id="isfoot">
+        <ul class="container-fluid" id="socialIM">
+            <li> <a href="https://www.facebook.com/rmanish21"><img src="social_media/fb.png"/></a>
+            <li><a href="https://www.linkedin.com/in/manish-rai-186a5442/"><img src="social_media/lkin.png"/></a>
+            <li> <a href="https://github.com/RaiManish3"><img src="social_media/git.png"/></a>
+            <li><a href="mailto:manish.07.1996@gmail.com"><img src="social_media/mail.png"/></a>
+        </ul>
+        <div class="container-fluid" style="margin:20px 0 5px;">
+            Designed by Manish Rai.
+        </div>
+	</div>
+
+    <script src="action.js" type="text/javascript"></script>
+
+</body>
+</html>
