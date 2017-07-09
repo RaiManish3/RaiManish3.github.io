@@ -81,6 +81,10 @@ body{
     margin:10px 1% 10px 1%;
 }
 
+#works_list{
+    display:flex;
+}
+
 #works_list div{
     padding:10px 0 10px 2%;
 }
@@ -89,6 +93,7 @@ body{
     font-size:1.2em;
     color:rgba(50,50,100,1);
     font-weight:bold;
+    max-width:400px;
 }
 
 .pptitle{
@@ -99,7 +104,7 @@ body{
 
 .descp{
     font-size:0.8em;
-    background-color:rgba(240,240,240,0.2);
+    background-color:rgba(240,240,240,0.4);
     font-weight:normal;
     color:rgba(0,0,0,1);
 }
@@ -134,5 +139,11 @@ body{
 @media only screen and (max-width: 770px){
     .myInfo{
         width:95%;
+    }
+
+    #works_list{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items:center;
     }
 }
