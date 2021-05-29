@@ -1,0 +1,13 @@
+---
+layout: simple
+---
+
+<div class="container-fluid all_posts">
+  {% for post in site.posts %}
+    <div class="post_individual">
+      <a href="{{ post.url }}" style="text-decoration:none;"><h2>{{ post.title }} </h2></a>
+      {{ post.date | date: '%B %d, %Y' }}
+      {{ post.excerpt }}
+    </div>
+  {% endfor %}
+</div>
