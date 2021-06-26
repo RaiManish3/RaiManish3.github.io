@@ -200,3 +200,23 @@ body{
     }
 }
 
+
+
+.image-medium {
+  width:50%;
+}
+
+.image-small {
+  width:33%;
+}
+
+.collage_row {
+  display:flex;
+  text-align:justify;
+  justify-content:space-between;
+  width:100%;
+}
+
+.collage_row img {
+  height: auto !important;
+}

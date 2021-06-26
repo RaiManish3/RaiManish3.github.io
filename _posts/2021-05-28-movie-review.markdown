@@ -15,7 +15,7 @@ Clamentine: What do we do?
 Joel: Enjoy it.
 ```
 
-![eternal_sunshine_pic](/assets/img/eternal_sunshine.jpg)
+![eternal_sunshine_pic](/assets/img/movies/eternal_sunshine.jpg)
 
 The intention of this review is not to go into the details of the plot much as it would spoil the fun if you haven't watched it and intend to watch.
 
@@ -27,8 +27,8 @@ Never for a moment, I took my eyes off the screen.
 
 The movie wonderfully exhibits that while relationship do end, it is the moments that get cemented in memories and we should always cherish them.
 Whether good or bad memories, each has something to offer us and the film emphasizes that ignorance of memories associated with a particular person is not really blissful, something that is contrary to the title of the movie itself.
-The screenwriter does a great job of highlighting this by taking us protagonist's experience of the events in a reverse time order.
-Therefore, we are shown good parts of the relationship later on in the movie. The protagonist tries hard to retain these memories but is unable to do so.
+The screenwriter does a great job of highlighting this by taking us through protagonist's experience of the events in a reverse time order.
+Therefore, we are shown good parts of the relationship later on in the movie. The protagonist tries hard to retain these memories but all his efforts end in vain.
 This way the screenwriter successfully manages in creating a feeling of sorrow for the couple among the audience.
 
 Joel played by Jim Carrey is a rather introvert guy who is more confortable in writing his feelings in a journal and rarely conveys it to intended people.
