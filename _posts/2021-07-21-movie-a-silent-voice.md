@@ -1,16 +1,15 @@
 ---
-layout: post
 title:  A Silent Voice
 date:   2021-07-21 16:43:44 +0530
-categories: movie
-excerpt: <br>A movie that delves into strong themes such as self-acceptance, redemption, anxiety and what it means to be friends.
+categories: [Movie]
+tags: []
+description: A movie that delves into strong themes such as self-acceptance, redemption, anxiety and what it means to be friends.
 ---
 
-<!--more-->
-
-```
+```yaml
 Shoko Nishimiya: You can change starting now.
 ```
+{: .nolineno }
 
 ![a_silent_voice_image](/assets/img/movies/a_silent_voice_large.jpg)
 

@@ -1,16 +1,15 @@
 ---
-layout: post
 title:  Dead Poets Society
 date:   2023-08-19 00:05:44 +0530
-categories: movie
-excerpt: <br>An inspirational movie that shows momentus and harsh consequences of executing what the heart wants
+categories: [Movie]
+tags: []
+description: An inspirational movie that shows momentus and harsh consequences of executing what the heart wants
 ---
 
-<!--more-->
-
-```
+```yaml
 Students to John Keating: Oh Captain, My Captain!
 ```
+{: .nolineno }
 
 ![dead_poets_society_image](/assets/img/movies/dead_poets_society.jpg)
 

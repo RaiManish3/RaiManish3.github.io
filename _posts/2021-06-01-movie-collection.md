@@ -1,10 +1,24 @@
 ---
-layout: post
 title:  Collections
 date:   2021-06-26 19:43:44 +0530
-categories: general
-excerpt: <br>List of outstanding art
+categories: []
+tags: []
+description: List of outstanding art
 ---
+
+<style>
+.collage_row {
+  display:flex;
+  text-align:justify;
+  justify-content:space-between;
+  width:80%;
+}
+
+.collage_row img {
+  height: auto !important;
+}
+</style>
+
 
 <h2>Movies</h2><br>
 <div class="collage_table">
@@ -39,7 +53,3 @@ excerpt: <br>List of outstanding art
     <img src="/assets/img/icons/fullmetal_alchemist_icon.jpg" class="image-medium">
   </div>
 </div>
-
-
-<!-- <br><br> -->
-<!-- <h2>Books</h2><br> -->

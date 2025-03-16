@@ -1,19 +1,19 @@
 ---
-layout: post
-title:  Eternal Sunshine of Spotless Mind
-date:   2021-05-28 19:43:44 +0530
-categories: movie
-excerpt: <br>The first time I watched this movie, I simply fell in love with everything that it had to offer.<br>It was nothing like any other movie I had seen before.
+title: Eternal Sunshine of Spotless Mind
+date: 2021-05-28 19:43:44 +0530
+categories: [Movie]
+tags: [Drama]
+description: The first time I watched this movie, I simply fell in love with everything that it had to offer. It was nothing like any other movie I had seen before.
 ---
 
-<!--more-->
-
-```
+```yaml
 Clamentine: This is it, Joel. It's gonna be gone soon.
 Joel: Yeah, I know.
 Clamentine: What do we do?
 Joel: Enjoy it.
 ```
+{: .nolineno }
+
 
 ![eternal_sunshine_pic](/assets/img/movies/eternal_sunshine.jpg)
 
