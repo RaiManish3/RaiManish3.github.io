@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hey there! I'm Manish Rai.
+Hey there! 👋 I'm Manish Rai.
 
 I graduated from IIT Kanpur with Bachelor's degree in CSE.\
 I love programming. It allows me to create wonderful stuffs and simplify

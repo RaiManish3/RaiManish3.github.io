@@ -6,8 +6,21 @@ tags: []
 description: An inspirational movie that shows momentus and harsh consequences of executing what the heart wants
 ---
 
+<style>
+.video-container {
+  margin: 2.5rem 0;
+  padding: 1.5rem;
+}
+
+.video-container iframe {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+</style>
+
 ```yaml
-Students to John Keating: Oh Captain, My Captain!
+Students to John Keating: O Captain, My Captain!
 ```
 {: .nolineno }
 
@@ -19,6 +32,12 @@ reality, these adventures quickly face obstacles from societal norms.
 This film explores themes of individualism, the power of literature and poetry, and the conflict between
 traditionalism and the pursuit of personal dreams. It encourages the audience to question existing norms
 and embrace the importance of self-expression and creativity.
+
+
+<div class="video-container">
+  {% include embed/youtube.html id='ye4KFyWu2do' %}
+</div>
+
 
 The movie follows the story of a group of students as they navigate the challenges of adolescence and strive
 to find their own voices. The school teaches them how to consume material but not how to think, raise important
@@ -35,4 +54,4 @@ So real that when he delivers a speech, you are bound to be his student.
 
 The ending of the movie is not pleasing to the eyes, as I already mentioned, but that doesn't mean it is sad.
 In fact, some (literature folks) might say it is romantic. I do not wish to disclose the reason behind that as it would be a spoiler.
-There is a lot one can learn for himself from this movie. I hope you give it a try. [WATCH TRAILER](https://www.youtube.com/watch?v=ye4KFyWu2do).
+There is a lot one can learn for himself from this movie. I hope you give it a try.

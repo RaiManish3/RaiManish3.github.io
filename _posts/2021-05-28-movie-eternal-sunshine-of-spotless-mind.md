@@ -6,6 +6,19 @@ tags: [Drama]
 description: The first time I watched this movie, I simply fell in love with everything that it had to offer. It was nothing like any other movie I had seen before.
 ---
 
+<style>
+.video-container {
+  margin: 2.5rem 0;
+  padding: 1.5rem;
+}
+
+.video-container iframe {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+</style>
+
 ```yaml
 Clamentine: This is it, Joel. It's gonna be gone soon.
 Joel: Yeah, I know.
@@ -43,3 +56,7 @@ The dialogues have great depth. Some of them might resonate in your mind even af
 The music is appropriately applied to sections where it ought to deliver certain emotions.
 
 I would highly recommend watching this once and most likely you will end up watching it again and again in the years that will follow.
+
+<div class="video-container">
+  {% include embed/youtube.html id='ffkXkWRa-C0' %}
+</div>

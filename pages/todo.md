@@ -34,7 +34,7 @@ Inspired by [Jackie Ali's level up list](https://jackieali.me/levelup.html)
 - [x] Achieve good body shape
 
 ## MISCELLANEOUS
-- [ ] Cook 10 dishes on my own. [2 done till date :sweat:]
+- [ ] Cook 10 dishes on my own. [2 done till date 😅]
 - [ ] Start a youtube channel
 - [ ] Volunteer for teaching at a school
 - [ ] Visit Anfield during European Nights

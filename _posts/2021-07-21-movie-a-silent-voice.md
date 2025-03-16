@@ -1,10 +1,24 @@
 ---
+# layout: movie-post-layout
 title:  A Silent Voice
 date:   2021-07-21 16:43:44 +0530
 categories: [Movie]
 tags: []
 description: A movie that delves into strong themes such as self-acceptance, redemption, anxiety and what it means to be friends.
 ---
+
+<style>
+.video-container {
+  margin: 2.5rem 0;
+  padding: 1.5rem;
+}
+
+.video-container iframe {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+</style>
 
 ```yaml
 Shoko Nishimiya: You can change starting now.
@@ -24,6 +38,11 @@ It delves into heavy themes like self-acceptance, redemption, anxiety and what i
 Take for example self-acceptance, Nishimiya does not like herself because she thinks of herself as a burden on others and considers herself to be the reason why Ishida has been abandoned by his mates.
 Despite this, the movie highlights that there is a silver lining and it is our decisions that would shape us and our future.
 
+<div class="video-container">
+  {% include embed/youtube.html id='nfK6UgLra7g' %}
+</div>
+
+
 Talking of the animation itself, it is beautiful. It captures the attention and doesn't let go.
 The director uses a cross on people's faces to show how Ishida has blocked others from his life. It is only when he feels comfortable with them, the marks fall off.
 There are a number of camera shots framed at people's legs. The director uses this style to convey two things. First, how uneasy it is for Ishida to face the person he is conversing with.
@@ -37,5 +56,5 @@ Dialogues are thoughtful and relatable.
 
 If I were to pick anything that I feel didn't fit the movie completely would be the climax bridge scene. It felt a little fantastical but hey, I could live with that.
 
-I think the movie successfully manages to deliver the message it set out to do. Should you [watch](https://www.youtube.com/watch?v=nfK6UgLra7g) it?
+I think the movie successfully manages to deliver the message it set out to do. Should you watch it?
 <br>There's no reason you shouldn't.
