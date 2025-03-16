@@ -25,7 +25,7 @@ Shoko Nishimiya: You can change starting now.
 ```
 {: .nolineno }
 
-![a_silent_voice_image](/assets/img/movies/a_silent_voice_large.jpg)
+![a_silent_voice_image](/assets/img/movies/a_silent_voice_large.jpg "A scene from A Silent Voice showing Shoya Ishida and Shoko Nishimiya standing together")
 
 
 This movie is a masterpiece. Everything from its direction, sound effects, character development, frame setting and symbolism left a deep impression on me.

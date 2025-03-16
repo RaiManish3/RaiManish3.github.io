@@ -24,7 +24,7 @@ Students to John Keating: O Captain, My Captain!
 ```
 {: .nolineno }
 
-![dead_poets_society_image](/assets/img/movies/dead_poets_society.jpg)
+![dead_poets_society_image](/assets/img/movies/dead_poets_society.jpg "A scene from Dead Poets Society")
 
 While there is an extraordinary number of movies that focus on all the good aspects of doing the things
 that one loves and not pursuing what provides them guaranteed success, very few actually show that in

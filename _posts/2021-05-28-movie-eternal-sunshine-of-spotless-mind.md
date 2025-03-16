@@ -28,7 +28,7 @@ Joel: Enjoy it.
 {: .nolineno }
 
 
-![eternal_sunshine_pic](/assets/img/movies/eternal_sunshine.jpg)
+![eternal_sunshine_pic](/assets/img/movies/eternal_sunshine.jpg "A scene from Eternal Sunshine of the Spotless Mind showing Joel and Clementine lying together")
 
 The intention of this review is not to go into the details of the plot much as it would spoil the fun if you haven't watched it and intend to watch.
 
